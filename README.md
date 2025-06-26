@@ -18,6 +18,8 @@ https://github.com/shamilshamuh/Toman-Bike-Share-Project-SQL-BI/blob/main/Data%2
 
 # Dashboard
 https://github.com/shamilshamuh/Toman-Bike-Share-Project-SQL-BI/blob/main/Toman%20Bike%20Share%20Dashboard.png
+![image](https://github.com/user-attachments/assets/e004ae92-a769-46e2-ab38-40c5ed135638)
+![image](https://github.com/user-attachments/assets/e004ae92-a769-46e2-ab38-40c5ed135638)
 
 
 # Key Insights & Analysis
