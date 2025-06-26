@@ -41,6 +41,7 @@ The dashboard provides a comparative analysis of the company's performance betwe
 
 
 # Recommendations 
+https://github.com/shamilshamuh/Toman-Bike-Share-Project-SQL-BI/blob/main/Recommendations
 
 • Conservative Increase: To avoid hitting a price ceiling and risking customer loss, a 10–15% price increase is suggested. It's a cautious approach following a significant hike last year.
 - Price Projections: If the 2022 price was $4.99,
@@ -52,6 +53,6 @@ then:
 - Market Analysis: Understand customer satisfaction, economic factors, and competitor pricing.
 - Segmented Pricing: Differentiate pricing for casual and registered users based on their sensitivity to price.
 - Monitor and Adjust: Launch the new price, then carefully track sales and feedback to fine-tune if needed.
-- 
+
 # Conclusion
 This project demonstrates a complete data workflow, from foundational data preparation in SQL to advanced visualization in Power BI. It effectively translates complex data into clear, actionable intelligence, uncovering the impressive growth of Toman Bike Share and pinpointing specific opportunities to enhance operational efficiency and drive further profitability. 
