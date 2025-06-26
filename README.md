@@ -6,6 +6,8 @@ Data Cleaning and Preparation (SQL): The initial raw dataset was meticulously cl
 The cleaned data was then imported into Microsoft Power BI. A robust data model was built, and DAX (Data Analysis Expressions) was used to create complex calculations for key metrics like profit margin and year-over-year growth. The final step was to design and build an intuitive, interactive dashboard.
 
 # Dataset
+https://github.com/shamilshamuh/Toman-Bike-Share-Project-SQL-BI/blob/main/bike_share_yr_2021.csv
+
 
 # Data Cleaning Using Sql-
 
