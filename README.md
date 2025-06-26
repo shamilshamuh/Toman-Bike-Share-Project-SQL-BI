@@ -13,13 +13,13 @@ https://github.com/shamilshamuh/Toman-Bike-Share-Project-SQL-BI/blob/main/cost_t
 # Data Cleaning Using Sql-
 https://github.com/shamilshamuh/Toman-Bike-Share-Project-SQL-BI/blob/main/Data%20Cleaning%20SQL.png
 ![image](https://github.com/user-attachments/assets/883d2fa3-8c97-43e3-a7c2-371753e88d0c)
-![image](https://github.com/user-attachments/assets/883d2fa3-8c97-43e3-a7c2-371753e88d0c)
+
 
 
 # Dashboard
 https://github.com/shamilshamuh/Toman-Bike-Share-Project-SQL-BI/blob/main/Toman%20Bike%20Share%20Dashboard.png
 ![image](https://github.com/user-attachments/assets/e004ae92-a769-46e2-ab38-40c5ed135638)
-![image](https://github.com/user-attachments/assets/e004ae92-a769-46e2-ab38-40c5ed135638)
+
 
 
 # Key Insights & Analysis
