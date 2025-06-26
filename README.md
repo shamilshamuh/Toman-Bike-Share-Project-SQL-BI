@@ -23,10 +23,10 @@ The dashboard provides a comparative analysis of the company's performance betwe
 
 
 # Strategic Insights:
-.**Rider Demographics: The company has a strong, loyal customer base, with registered users consistently making up over 80% of the ridership. This indicates successful user retention.**
-.**Peak Profitability Hours: The "When Are We Making Money?" analysis reveals that the most profitable times are consistently during midday and early evenings (hours 10:00 to 19:00).**
-.**Most Profitable Days: Wednesday and Friday stand out as the days that generate the highest sales, indicating opportunities for targeted promotions or optimized bike availability.**
-.**Seasonal Revenue Shifts: There was a notable shift in seasonal performance. While Season 1 generated the highest average revenue in 2021 ($373.8), Season 3 became the most lucrative in 2022 ($709.5), suggesting a change in rider patterns.**
+• **Rider Demographics: The company has a strong, loyal customer base, with registered users consistently making up over 80% of the ridership. This indicates successful user retention.**
+• **Peak Profitability Hours: The "When Are We Making Money?" analysis reveals that the most profitable times are consistently during midday and early evenings (hours 10:00 to 19:00).**
+• **Most Profitable Days: Wednesday and Friday stand out as the days that generate the highest sales, indicating opportunities for targeted promotions or optimized bike availability.**
+• **Seasonal Revenue Shifts: There was a notable shift in seasonal performance. While Season 1 generated the highest average revenue in 2021 ($373.8), Season 3 became the most lucrative in 2022 ($709.5), suggesting a change in rider patterns.**
 
 # Conclusion
 This project demonstrates a complete data workflow, from foundational data preparation in SQL to advanced visualization in Power BI. It effectively translates complex data into clear, actionable intelligence, uncovering the impressive growth of Toman Bike Share and pinpointing specific opportunities to enhance operational efficiency and drive further profitability. 
