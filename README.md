@@ -7,6 +7,7 @@ The cleaned data was then imported into Microsoft Power BI. A robust data model 
 
 # Dataset
 https://github.com/shamilshamuh/Toman-Bike-Share-Project-SQL-BI/blob/main/bike_share_yr_2021.csv
+https://github.com/shamilshamuh/Toman-Bike-Share-Project-SQL-BI/blob/main/bike_share_yr_2022.csv
 
 
 # Data Cleaning Using Sql-
