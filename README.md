@@ -39,5 +39,18 @@ The dashboard provides a comparative analysis of the company's performance betwe
 • **Most Profitable Days: Wednesday and Friday stand out as the days that generate the highest sales, indicating opportunities for targeted promotions or optimized bike availability.**
 • **Seasonal Revenue Shifts: There was a notable shift in seasonal performance. While Season 1 generated the highest average revenue in 2021 ($373.8), Season 3 became the most lucrative in 2022 ($709.5), suggesting a change in rider patterns.**
 
+
+# Recommendations 
+
+• Conservative Increase: To avoid hitting a price ceiling and risking customer loss, a 10–15% price increase is suggested. It's a cautious approach following a significant hike last year.
+• Price Projections: If the 2022 price was $4.99,
+then:
+- A 10% increase would bring it to about $5.49.
+- A 15% increase would raise it to around $5.74.
+• Strategy Recommendations:
+• Market Analysis: Understand customer satisfaction, economic factors, and competitor pricing.
+• Segmented Pricing: Differentiate pricing for casual and registered users based on their sensitivity to price.
+• Monitor and Adjust: Launch the new price, then carefully track sales and feedback to fine-tune if needed.
+
 # Conclusion
 This project demonstrates a complete data workflow, from foundational data preparation in SQL to advanced visualization in Power BI. It effectively translates complex data into clear, actionable intelligence, uncovering the impressive growth of Toman Bike Share and pinpointing specific opportunities to enhance operational efficiency and drive further profitability. 
